@@ -1,9 +1,25 @@
 h1 
 {
-    font-size:700%;
+    font-family:verdana;
+	font-size:700%;
 }
 
 h2 
 {
+	font-family:verdana;
     font-size:500%;
 }
+
+h3
+{
+	font-family:verdana;
+    font-size:200%;
+}
+
+li
+{
+	font-family:verdana;
+    font-size:500%;
+}
+
+
