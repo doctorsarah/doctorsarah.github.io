@@ -37,12 +37,12 @@ a:hover {
 }
 
 /* Add a color to the active/current link */
-a.active {
+a:active {
     background-color: #4CAF50;
     color: white;
 }
 
-a.visited 
+a:visited 
 {
 	color: #CCCCCC;
 }
