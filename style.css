@@ -30,6 +30,7 @@ a
 {
 	font-family:verdana;
     text-decoration: none;
+	color: black;
 }
 
 a:hover {
@@ -44,8 +45,7 @@ a:active {
 
 a:visited 
 {
-	color: #CCCCCC;
-}
+	color: #CFCFCF;
 
 
 /* Add a black background color to the top navigation */
