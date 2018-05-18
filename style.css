@@ -16,10 +16,12 @@ h3
     font-size:200%;
 }
 
-li
+a 
 {
 	font-family:verdana;
-    font-size:500%;
+    color: #F2F2F2;
+    text-decoration: none;
+    font-size: 300%;
 }
 
 /* Add a black background color to the top navigation */
@@ -31,7 +33,7 @@ li
 /* Style the links inside the navigation bar */
 .topnav a {
     float: left;
-    color: #FF0000;
+    color: #F2F2F2;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
