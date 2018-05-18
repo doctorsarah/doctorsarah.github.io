@@ -14,6 +14,15 @@ h3
 {
 	font-family:verdana;
     font-size:200%;
+	background-color:CCCCCC;
+	text-align:center;
+	text-decoration:none;
+}
+
+h4
+{
+	font-family:verdana;
+    font-size:200%;
 }
 
 body
