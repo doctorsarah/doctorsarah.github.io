@@ -16,11 +16,20 @@ h3
     font-size:200%;
 }
 
+body
+{
+	font-family:verdana;
+}
+
+li
+{
+   font-size: 300%;
+}
+
 a 
 {
 	font-family:verdana;
     text-decoration: none;
-    font-size: 300%;
 }
 
 /* Add a black background color to the top navigation */
