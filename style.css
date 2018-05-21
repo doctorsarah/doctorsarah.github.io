@@ -1,7 +1,7 @@
 h1 
 {
     font-family:verdana;
-	font-size:300%;
+	font-size:250%;
 }
 
 h2 
@@ -13,7 +13,7 @@ h2
 h3
 {
 	font-family:verdana;
-    font-size:300%;
+    font-size:200%;
 	background-color:#AAAAAA;
 	text-align:center;
 	text-decoration:none;
@@ -28,7 +28,8 @@ h4
 body
 {
 	font-family:verdana;
-    font-size: 300%;
+    font-size: 200%;
+	background-color:#EEEEEE;
 }
 
 a 
