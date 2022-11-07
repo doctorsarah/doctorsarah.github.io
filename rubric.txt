@@ -1,9 +1,5 @@
 85%: 60 pts
 10 pts 1. GUI with next, previous, 
-2. GUI attractive and appropriately spaced
-3. GUI shortcut keys
-4. Object class
-5. Object Manager class: list of friends and currentItemIndex. Singleton
 6. Constructor populates with 3 Objects
 7. MainWindow initialize displays first Object from Object Manager.
 8. Next increments currentItemIndex
