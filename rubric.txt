@@ -1,5 +1,5 @@
 85%: 60 pts
-1. GUI with next, previous, 
+10 pts 1. GUI with next, previous, 
 2. GUI attractive and appropriately spaced
 3. GUI shortcut keys
 4. Object class
