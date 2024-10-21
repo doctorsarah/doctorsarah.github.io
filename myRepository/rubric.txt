@@ -1,0 +1,12 @@
+85%: 60 pts
+10 pts 1. GUI with next, previous, 
+6. Constructor populates with 3 Objects
+7. MainWindow initialize displays first Object from Object Manager.
+8. Next increments currentItemIndex
+9. Prev decrements currentItemIndex.
+10. Item displayed matches currentItemIndex with a label value specifying (1-based) sequence numbers and total number.
+11. Disable next/prev if there is not one.
+12. Enabling/Disabling done in a single method. 
+13. Update modifies the Object to match user changes.
+14. Create adds a new object and opens it (N of N).
+15. Delete removes correctly and updates labels.
