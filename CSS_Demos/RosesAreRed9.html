@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Poem</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleClasses.css">
+    <script language="javascript">
+        function respond() {
+            poem = document.getElementById("poem")
+            if (document.body.className == "white") {
+                document.body.className = "pink";
+                poem.className = "white mystery"
+                heading.innerHTML = ""
+            } else {
+                document.body.className = "white"
+                poem.className = "pink"
+                heading = document.getElementById("heading");
+                heading.innerHTML = "<a href='mailto:sgothard@bju.edu'>Email me</a> with questions.";
+            }
+        }
+    </script>
+</head>
+
+<body class="pink">
+    <p id="heading" />
+    <h1 onmouseover="javascript:respond()">Poem</h1>
+    <p id="poem">Roses are <strong class="red pink">red</strong> <br />
+        Violets are <em class="blue pink">blue</em> <br />
+        This poem doesn't rhyme<br />
+        But I like you anyhow.</p>
+    <button onclick="javascript:respond()">Click Me</button>
+</body>
+</html>
+

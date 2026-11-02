@@ -1,0 +1,28 @@
+.pink {
+    background-color: #f5d2f6;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.mystery {
+    font-weight: bold;
+    background-color: #ffffff;
+    padding: 2em 2em 2em 2em;
+    font-size: 1.5rem;
+    font-family: Courier New;
+    max-width: 20em;
+    border: .2em solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
